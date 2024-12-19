@@ -31,7 +31,7 @@ namespace TechnoService.Pages
 
         private void GenerateQR()
         {
-            string url = "https://forms.gle/EvKo5TpFNVowjHGa9";
+            string url = "https://forms.gle/8kpne6YG1MKBuyLV6";
 
             if (string.IsNullOrWhiteSpace(url))
             {
